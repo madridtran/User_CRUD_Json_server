@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "Cristiano Ronaldo3",
+      "username": "hitman",
+      "email": "ronaldo@gmail.com",
+      "phone": "03782791827",
+      "id": 3
+    },
+    {
+      "name": "Cristiano Ronaldo4",
+      "username": "mono",
+      "email": "ronaldo@gmail.com",
+      "phone": "03782791827",
+      "id": 4
+    },
+    {
+      "name": "Tran Van Hung",
+      "username": "HungSon",
+      "email": "hung.tv@hesperiafreepress.com",
+      "phone": "0965488660",
+      "id": 5
+    }
+  ]
+}
